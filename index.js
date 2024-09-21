@@ -1,7 +1,7 @@
 const core = require('@actions/core');
 const github = require('@actions/github');
 
-// v2
+// v3
 
 try {
   // Fetch the value of the input 'who-to-greet' specified in action.yml
